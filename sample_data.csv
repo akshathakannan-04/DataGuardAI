@@ -1,0 +1,13 @@
+Customer,City,Product,Quantity,UnitPrice,Revenue
+Asha,Chennai,Laptop,2,50000,100000
+Bala,Coimbatore,Phone,3,20000,60000
+Charan,Chennai,Phone,4,20000,80000
+Divya,Madurai,Laptop,1,50000,50000
+Esha,Coimbatore,Tablet,5,10000,50000
+Farhan,Chennai,Tablet,4,10000,40000
+Gokul,Madurai,Phone,2,20000,40000
+Hari,Chennai,Laptop,1,50000,50000
+Isha,Coimbatore,Laptop,2,50000,100000
+Jaya,Chennai,Phone,5,20000,100000
+Kiran,Madurai,Tablet,3,10000,30000
+Latha,Coimbatore,Phone,2,20000,40000
