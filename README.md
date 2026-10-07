@@ -1,3 +1,13 @@
+# 🛡️ DataGuard AI
+
+## 🚀 Live Demo
+
+[Open DataGuard AI](https://dataguardai-ncxuuu95h8narpmypjsykg.streamlit.app/)
+
+**DataGuard AI — Proof-Carrying Data Analyst**
+
+Don't just trust the answer. Verify it.
+
 # DataGuard AI — Proof-Carrying Data Analyst
 
 HackNex 2026 Internal Qualifier — HNX26PSI08
